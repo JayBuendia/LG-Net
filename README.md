@@ -10,3 +10,5 @@ LG-Net addresses these challenges through a task-driven local–global feature l
 2）Global semantic relation modeling via lightweight contextual priors
 3）Feature refinement to suppress global redundancy and enhance local discriminability
 The proposed framework performs end-to-end point-wise prediction without voxelization or projection.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17945892.svg)](https://doi.org/10.5281/zenodo.17945892)
